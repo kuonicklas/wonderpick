@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InitializeLayers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InitializeLayers",
+  "parent":{
+    "name":"WonderPick",
+    "path":"WonderPick.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

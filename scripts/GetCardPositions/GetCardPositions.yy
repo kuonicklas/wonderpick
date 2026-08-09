@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GetCardPositions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GetCardPositions",
+  "parent":{
+    "name":"WonderPick",
+    "path":"WonderPick.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

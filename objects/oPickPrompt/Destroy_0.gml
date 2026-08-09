@@ -1,0 +1,1 @@
+oPickScreenManager.prompt_exists = false;

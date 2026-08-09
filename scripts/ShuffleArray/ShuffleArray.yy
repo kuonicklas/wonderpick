@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ShuffleArray",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShuffleArray",
+  "parent":{
+    "name":"WonderPick",
+    "path":"WonderPick.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

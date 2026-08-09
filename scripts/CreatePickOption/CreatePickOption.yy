@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CreatePickOption",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CreatePickOption",
+  "parent":{
+    "name":"WonderPick",
+    "path":"WonderPick.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
